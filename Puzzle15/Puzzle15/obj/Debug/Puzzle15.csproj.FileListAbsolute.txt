@@ -1,0 +1,10 @@
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\bin\Debug\Puzzle15.exe.config
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\bin\Debug\Puzzle15.exe
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\bin\Debug\Puzzle15.pdb
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\obj\Debug\Puzzle15.csprojResolveAssemblyReference.cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\obj\Debug\Puzzle15.Form1.resources
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\obj\Debug\Puzzle15.Properties.Resources.resources
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\obj\Debug\Puzzle15.csproj.GenerateResource.Cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\obj\Debug\Puzzle15.csproj.CoreCompileInputs.cache
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\obj\Debug\Puzzle15.exe
+F:\F\University\Karshenasi\1400_2\BaziSazi\4010201\Puzzle15\Puzzle15\obj\Debug\Puzzle15.pdb
